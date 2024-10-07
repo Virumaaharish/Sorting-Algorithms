@@ -1,3 +1,5 @@
+# DATE :
+#EXP N0 : 8
 # Selection sort and Insertion sort
 ## Aim:
 To write a program to perform selection sort and insertion sort using python programming.
@@ -57,8 +59,9 @@ print(num)
 ```
 
 ## Output:
-![Screenshot 2024-04-23 221708](https://github.com/ARAVIND-23/Sorting-Algorithms/assets/138970182/fffabea0-a2bb-4e75-8924-05e572b052a3)
-![Screenshot 2024-04-23 221811](https://github.com/ARAVIND-23/Sorting-Algorithms/assets/138970182/ba0b78b7-7faa-4bb0-ad22-d9e2d03b1607)
+
+![Screenshot 2024-10-07 180123](https://github.com/user-attachments/assets/ed12a8fa-2dc7-4afa-a3e4-4a0ea52f9e59)
+![Screenshot 2024-10-07 180048](https://github.com/user-attachments/assets/38c8321a-4f57-4159-908f-19c7289750ee)
 
 
 ## Result:
